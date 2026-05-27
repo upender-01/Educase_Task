@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import FloatingInput from '../components/FloatingInput';
+import FloatingInput from '../Components/FloatingInput';
 
 const RegisterPage = () => {
   const navigate = useNavigate();

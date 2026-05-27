@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 // Import Layout
-import MobileWrapper from './components/MobileWrapper';
+import MobileWrapper from './Components/MobileWrapper';
 
 // Import Pages
 import LandingPage from './pages/LandingPage';
